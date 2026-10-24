@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-1.75%2B-orange.svg?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-green.svg?style=flat-square)](#cross-platform-compilation)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet.svg?style=flat-square)](#)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blueviolet.svg?style=flat-square)](https://github.com/TIRK3Y/Multi-Protocol-Downloader/releases)
 [![Open Source](https://img.shields.io/badge/Open%20Source-100%25-brightgreen.svg?style=flat-square)](#)
 
 MPD (Multi-Protocol Downloader) is a modern, high-performance, open-source desktop computer software and command-line utility built in Rust. It enables fast, reliable multimedia extraction and torrent stream acquisition across more than 1,000+ websites and streaming protocols (HTTP, HLS/m3u8, DASH/mpd, RTMP, and BitTorrent/Magnet).
