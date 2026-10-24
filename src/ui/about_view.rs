@@ -107,6 +107,10 @@ impl AboutView {
                                 ui.label("Standard User Directory");
                             }
                             ui.end_row();
+
+                            ui.label("Open-Source Repository:");
+                            ui.hyperlink_to("github.com/TIRK3Y/Multi-Protocol-Downloader", "https://github.com/TIRK3Y/Multi-Protocol-Downloader");
+                            ui.end_row();
                         });
                 });
 
